@@ -2,6 +2,10 @@
 
 HomeAgentMobileK is the powerful, multi-tabbed main mobile management interface of the AI-powered HomeAgent system, designed for Android smartphones and tablets.
 
+## 📸 Screenshots
+
+![HomeAgent Mobile-K](docs/images/app_01.jpg)
+
 ## 🌟 System Features
 - **Modern Jetpack Compose Infrastructure:** A 100% declarative and responsive visual interface strictly conforming to the latest Material 3 (M3) design patterns.
 - **Clickable Bottom Navigation:** Seamless and instant animated transitions between Dashboard, AI Assistant, and Settings tabs using a modular `NavHost`.
