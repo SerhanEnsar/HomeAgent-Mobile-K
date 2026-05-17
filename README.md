@@ -25,3 +25,11 @@ After cloning the project via Android Studio, make sure your device and your Hom
 This application is the grand visual showcase of the system. For the other parts of the ecosystem:
 - **HomeAgent:** The Python FastAPI brain (Backend) serving data for the system.
 - **AgentJee:** The lightweight interface optimized for Wear OS Smartwatches.
+
+## 👨‍💻 Developer
+
+Created and developed by **[Serhan Ensar](https://github.com/SerhanEnsar)**.
+
+## 📄 License
+
+MIT
