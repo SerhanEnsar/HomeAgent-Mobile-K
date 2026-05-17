@@ -1,3 +1,4 @@
+// Copyright (c) 2026 Serhan Ensar. All rights reserved.
 package com.serhanensar.homeagentmobilek.util
 
 import android.content.Context

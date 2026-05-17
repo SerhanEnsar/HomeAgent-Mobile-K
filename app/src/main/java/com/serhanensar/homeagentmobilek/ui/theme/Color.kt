@@ -1,3 +1,4 @@
+// Copyright (c) 2026 Serhan Ensar. All rights reserved.
 package com.serhanensar.homeagentmobilek.ui.theme
 
 import androidx.compose.ui.graphics.Color
